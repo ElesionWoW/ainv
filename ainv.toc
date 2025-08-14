@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: ainv
+## Author: Elesion
+## Version: 0.1
+## Notes: light-weight auto-invites. |cFFFFFF00/ainv help|r to get started.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+ainv.lua
